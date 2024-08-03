@@ -13,6 +13,6 @@ To compare various machine learning algorithms in predicting the drag coefficien
 **Input or predictor variables (u) after Feauture Importance Scores:**
 1)Reynolds number (Re) 2)Shape Factor (Phi) 
 
-![Lasso Regression Image](code files and results/Results/Feature Imp.png)
+![Feature Importance Score](code files and results/Results/Feature Imp.png)
 
 
