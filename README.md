@@ -49,7 +49,7 @@ This project aims to compare various machine learning algorithms in predicting t
 - **Best Performing Models:**
   - Random Forest Regression: R² = 0.9163
   - Decision Tree Regression: R² = 0.9161
-  - Radial Basis Function Neural Network: R² = 0.321
+  - Radial Basis Function Neural Network.
 - **Visualization:** Scatter plots and log-log plots for C_d vs. Re and Actual vs. Predicted values.
 
 ## Future Work
